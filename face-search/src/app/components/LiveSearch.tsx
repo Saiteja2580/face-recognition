@@ -7,7 +7,7 @@ import axios from "axios";
 import Image from "next/image";
 
 // This is the URL of your locally running backend
-const API_BASE_URL = "http://localhost:3001";
+const API_BASE_URL = "https://face-recognition-4phv.onrender.com";
 
 // Define a type for the shape of our search result object
 interface SearchResult {
